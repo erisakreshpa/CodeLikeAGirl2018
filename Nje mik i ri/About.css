@@ -1,0 +1,23 @@
+table{
+	text-align: center;
+	color:black;
+	font-size: 100%;
+	background-color:#f2f2f2;
+	border-width:10px;
+	border-style:inset;
+	border-color:#ffffb3;
+	width:100%;
+}
+
+
+img{
+	/*padding-top:100px;*/
+	float: left;
+	padding-left:100px;
+}
+img2{
+	float: center;
+	padding-left:100px;
+	/*padding-top:100px;*/
+}
+

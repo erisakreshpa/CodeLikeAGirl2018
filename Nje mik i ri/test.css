@@ -1,0 +1,86 @@
+table{
+	text-align: center;
+	font-family: Bell MT;
+	color: black;
+	font-size: 100%;
+    border-width: 10px;
+	border-color: #ffffb3;
+	border-style: inset;
+	background-color: white;
+	}
+body{
+	background-image: url("paw.jpg");
+	overflow: visible;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	}
+img{
+	border-style: dashed;
+    border-width: 5px;
+	border-color: black;
+	width: 600px;
+	height: 400px;
+	float: right;
+	vertical-align: top;
+}
+#p1{
+	font-family: Bell MT;
+	font-size: 30px;
+	text-align: top;
+}
+/*.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}*/
+#t1{vertical-align: bottom;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
